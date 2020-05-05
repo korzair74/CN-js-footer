@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/korzair74/CN-js-footer.git"
+    "url": "git+https://github.com/korzair74/cn-js-footer.git"
   },
   "keywords": [
     "Footer"
@@ -16,9 +16,9 @@
   "author": "Chris Nickel <chris.nickel.dev@gmail.com> (https://github.com/korzair74)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/korzair74/CN-js-footer/issues"
+    "url": "https://github.com/korzair74/cn-js-footer/issues"
   },
-  "homepage": "https://github.com/korzair74/CN-js-footer#readme",
+  "homepage": "https://github.com/korzair74/cn-js-footer#readme",
   "dependencies": {
     "moment": "^2.25.3"
   }
